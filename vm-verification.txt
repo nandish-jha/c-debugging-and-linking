@@ -1,0 +1,5 @@
+NAME: Nandish Jha
+NSID: NAJ474
+Student Number: 11282001
+
+Linux ubuntu 6.14.0-27-generic #27~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Jul 22 17:38:49 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
