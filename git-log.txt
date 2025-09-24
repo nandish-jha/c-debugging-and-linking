@@ -1,0 +1,23 @@
+commit c0c213054dff2c5ac56945185cee8016e5933d0b
+Author: naj474 <naj474@usask.ca>
+Date:   Fri Sep 12 10:54:22 2025 -0600
+
+    Added Name Info on all files and added the vm-verification text file
+
+commit c1a105ea98592f0c92ed4b77cb1fb280f24d21e4
+Author: naj474 <naj474@usask.ca>
+Date:   Fri Sep 12 07:42:41 2025 -0600
+
+    Added a completely working bash script file
+
+commit afeae057c572b09f49700f551a1c8b6c9c838224
+Author: naj474 <naj474@usask.ca>
+Date:   Thu Sep 11 22:19:33 2025 -0600
+
+    Makefile updated to run in any architecture
+
+commit b4fec9447c644ebbaa3b8ee362e018dd3b763046
+Author: naj474 <naj474@usask.ca>
+Date:   Thu Sep 11 17:10:22 2025 -0600
+
+    Initial commit; with a working Makefile
